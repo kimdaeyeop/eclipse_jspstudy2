@@ -13,6 +13,7 @@
 	System.out.println("str="+str);//디버깅할때 사용
 	out.println("<h1>"+str+"<h1>");//웹에서 출력
 	%>
+	<%=str %>
 
 </body>
 </html>
