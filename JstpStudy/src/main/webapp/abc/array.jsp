@@ -18,7 +18,7 @@
 			<td><%=keyword[i]%></td>
 			</tr>
 		 <%}%>
-		 안녕하세요저는 array.jsp입니다
+		 안녕하세요저는 array.jsp입니다........
 		</table>
 
 </body>
